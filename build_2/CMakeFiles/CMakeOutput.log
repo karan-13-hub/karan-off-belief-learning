@@ -1,0 +1,997 @@
+The system is: Linux - 6.8.0-51-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /home/kmirakho/anaconda3/envs/trial_hanabi/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/3.21.3/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /home/kmirakho/anaconda3/envs/trial_hanabi/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/3.21.3/CompilerIdCXX/a.out"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_30627/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_30627.dir/build.make CMakeFiles/cmTC_30627.dir/build
+gmake[1]: Entering directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cc   -v -o CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o -c /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CMakeCCompilerABI.c
+Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs
+could not find specs file conda.specs
+COLLECT_GCC=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cc
+Target: x86_64-conda-linux-gnu
+Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c,c++,fortran,objc,obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 11.4.0 (conda-forge gcc 11.4.0-13) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_30627.dir/'
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/cc1 -quiet -v -iprefix /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/ -isysroot /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_30627.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -o /tmp/ccWOLnZ1.s
+GNU C17 (conda-forge gcc 11.4.0-13) version 11.4.0 (x86_64-conda-linux-gnu)
+	compiled by GNU C version 13.2.0, GMP version 6.1.0, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include"
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/local/include"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed"
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include
+End of search list.
+GNU C17 (conda-forge gcc 11.4.0-13) version 11.4.0 (x86_64-conda-linux-gnu)
+	compiled by GNU C version 13.2.0, GMP version 6.1.0, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 45c9999e2ad87e1c830bdf7115b006ca
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_30627.dir/'
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/as -v --64 -o CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o /tmp/ccWOLnZ1.s
+GNU assembler version 2.40 (x86_64-conda-linux-gnu) using BFD version (Anaconda binutils) 2.40
+COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/
+LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.'
+Linking C executable cmTC_30627
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cmake -E cmake_link_script CMakeFiles/cmTC_30627.dir/link.txt --verbose=1
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cc  -v CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o -o cmTC_30627 
+Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs
+could not find specs file conda.specs
+COLLECT_GCC=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cc
+COLLECT_LTO_WRAPPER=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper
+Target: x86_64-conda-linux-gnu
+Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c,c++,fortran,objc,obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 11.4.0 (conda-forge gcc 11.4.0-13) 
+COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/
+LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_30627' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_30627.'
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/collect2 -plugin /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/liblto_plugin.so -plugin-opt=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccSvzfVn.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_30627 /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0 -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../.. -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o -rpath /home/kmirakho/anaconda3/envs/trial_hanabi/lib
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_30627' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_30627.'
+gmake[1]: Leaving directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include]
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed]
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include]
+  end of search list found
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include]
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed]
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/include]
+  implicit include dirs: [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_30627/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_30627.dir/build.make CMakeFiles/cmTC_30627.dir/build]
+  ignore line: [gmake[1]: Entering directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cc   -v -o CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o -c /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CMakeCCompilerABI.c]
+  ignore line: [Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs]
+  ignore line: [could not find specs file conda.specs]
+  ignore line: [COLLECT_GCC=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cc]
+  ignore line: [Target: x86_64-conda-linux-gnu]
+  ignore line: [Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c c++ fortran objc obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 11.4.0 (conda-forge gcc 11.4.0-13) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_30627.dir/']
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/cc1 -quiet -v -iprefix /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/ -isysroot /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_30627.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=x86-64 -version -o /tmp/ccWOLnZ1.s]
+  ignore line: [GNU C17 (conda-forge gcc 11.4.0-13) version 11.4.0 (x86_64-conda-linux-gnu)]
+  ignore line: [	compiled by GNU C version 13.2.0  GMP version 6.1.0  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include"]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/local/include"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C17 (conda-forge gcc 11.4.0-13) version 11.4.0 (x86_64-conda-linux-gnu)]
+  ignore line: [	compiled by GNU C version 13.2.0  GMP version 6.1.0  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 45c9999e2ad87e1c830bdf7115b006ca]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_30627.dir/']
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/as -v --64 -o CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o /tmp/ccWOLnZ1.s]
+  ignore line: [GNU assembler version 2.40 (x86_64-conda-linux-gnu) using BFD version (Anaconda binutils) 2.40]
+  ignore line: [COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/]
+  ignore line: [LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.']
+  ignore line: [Linking C executable cmTC_30627]
+  ignore line: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cmake -E cmake_link_script CMakeFiles/cmTC_30627.dir/link.txt --verbose=1]
+  ignore line: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cc  -v CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o -o cmTC_30627 ]
+  ignore line: [Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs]
+  ignore line: [could not find specs file conda.specs]
+  ignore line: [COLLECT_GCC=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cc]
+  ignore line: [COLLECT_LTO_WRAPPER=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper]
+  ignore line: [Target: x86_64-conda-linux-gnu]
+  ignore line: [Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c c++ fortran objc obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 11.4.0 (conda-forge gcc 11.4.0-13) ]
+  ignore line: [COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/]
+  ignore line: [LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_30627' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_30627.']
+  link line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/collect2 -plugin /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/liblto_plugin.so -plugin-opt=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccSvzfVn.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_30627 /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0 -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../.. -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o -rpath /home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccSvzfVn.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [--sysroot=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-pie] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_30627] ==> ignore
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o]
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o]
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../..] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../..]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib]
+    arg [CMakeFiles/cmTC_30627.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--push-state] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--pop-state] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--push-state] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--pop-state] ==> ignore
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o]
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o]
+    arg [-rpath] ==> ignore
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/lib] ==> ignore
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/Scrt1.o]
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/crti.o]
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o]
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o]
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/crtn.o]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../..] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib]
+  implicit libs: [gcc;gcc_s;c;gcc;gcc_s]
+  implicit objs: [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/Scrt1.o;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/crti.o;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/crtn.o]
+  implicit dirs: [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/lib;/home/kmirakho/anaconda3/envs/trial_hanabi/lib;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/lib;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib]
+  implicit fwks: []
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_ee782/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_ee782.dir/build.make CMakeFiles/cmTC_ee782.dir/build
+gmake[1]: Entering directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/c++   -v -o CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o -c /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp
+Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs
+could not find specs file conda.specs
+COLLECT_GCC=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/c++
+Target: x86_64-conda-linux-gnu
+Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c,c++,fortran,objc,obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 11.4.0 (conda-forge gcc 11.4.0-13) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_ee782.dir/'
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/cc1plus -quiet -v -iprefix /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/ -isysroot /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot -D_GNU_SOURCE /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_ee782.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/ccMwZNt4.s
+GNU C++17 (conda-forge gcc 11.4.0-13) version 11.4.0 (x86_64-conda-linux-gnu)
+	compiled by GNU C version 13.2.0, GMP version 6.1.0, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include"
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/local/include"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed"
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include
+End of search list.
+GNU C++17 (conda-forge gcc 11.4.0-13) version 11.4.0 (x86_64-conda-linux-gnu)
+	compiled by GNU C version 13.2.0, GMP version 6.1.0, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: b752247fe42c4276663fdd6348116302
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_ee782.dir/'
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/as -v --64 -o CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccMwZNt4.s
+GNU assembler version 2.40 (x86_64-conda-linux-gnu) using BFD version (Anaconda binutils) 2.40
+COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/
+LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.'
+Linking CXX executable cmTC_ee782
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ee782.dir/link.txt --verbose=1
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/c++  -v CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_ee782 
+Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs
+could not find specs file conda.specs
+COLLECT_GCC=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/c++
+COLLECT_LTO_WRAPPER=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper
+Target: x86_64-conda-linux-gnu
+Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c,c++,fortran,objc,obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 11.4.0 (conda-forge gcc 11.4.0-13) 
+COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/
+LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ee782' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_ee782.'
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/collect2 -plugin /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/liblto_plugin.so -plugin-opt=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccPuZPFW.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_ee782 /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0 -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../.. -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o -rpath /home/kmirakho/anaconda3/envs/trial_hanabi/lib
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ee782' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_ee782.'
+gmake[1]: Leaving directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp'
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++]
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu]
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward]
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include]
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed]
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include]
+  end of search list found
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++]
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu]
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward]
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include]
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed]
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/include]
+  implicit include dirs: [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_ee782/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_ee782.dir/build.make CMakeFiles/cmTC_ee782.dir/build]
+  ignore line: [gmake[1]: Entering directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/c++   -v -o CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o -c /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs]
+  ignore line: [could not find specs file conda.specs]
+  ignore line: [COLLECT_GCC=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/c++]
+  ignore line: [Target: x86_64-conda-linux-gnu]
+  ignore line: [Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c c++ fortran objc obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 11.4.0 (conda-forge gcc 11.4.0-13) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_ee782.dir/']
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/cc1plus -quiet -v -iprefix /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/ -isysroot /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot -D_GNU_SOURCE /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_ee782.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o /tmp/ccMwZNt4.s]
+  ignore line: [GNU C++17 (conda-forge gcc 11.4.0-13) version 11.4.0 (x86_64-conda-linux-gnu)]
+  ignore line: [	compiled by GNU C version 13.2.0  GMP version 6.1.0  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include"]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/local/include"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++17 (conda-forge gcc 11.4.0-13) version 11.4.0 (x86_64-conda-linux-gnu)]
+  ignore line: [	compiled by GNU C version 13.2.0  GMP version 6.1.0  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: b752247fe42c4276663fdd6348116302]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_ee782.dir/']
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/as -v --64 -o CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccMwZNt4.s]
+  ignore line: [GNU assembler version 2.40 (x86_64-conda-linux-gnu) using BFD version (Anaconda binutils) 2.40]
+  ignore line: [COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/]
+  ignore line: [LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.']
+  ignore line: [Linking CXX executable cmTC_ee782]
+  ignore line: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ee782.dir/link.txt --verbose=1]
+  ignore line: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/c++  -v CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_ee782 ]
+  ignore line: [Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs]
+  ignore line: [could not find specs file conda.specs]
+  ignore line: [COLLECT_GCC=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/c++]
+  ignore line: [COLLECT_LTO_WRAPPER=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper]
+  ignore line: [Target: x86_64-conda-linux-gnu]
+  ignore line: [Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c c++ fortran objc obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 11.4.0 (conda-forge gcc 11.4.0-13) ]
+  ignore line: [COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/]
+  ignore line: [LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ee782' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_ee782.']
+  link line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/collect2 -plugin /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/liblto_plugin.so -plugin-opt=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccPuZPFW.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_ee782 /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0 -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../.. -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o -rpath /home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccPuZPFW.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [--sysroot=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-pie] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_ee782] ==> ignore
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o]
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o]
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../..] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../..]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib]
+    arg [CMakeFiles/cmTC_ee782.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o]
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o]
+    arg [-rpath] ==> ignore
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/lib] ==> ignore
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/Scrt1.o]
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/crti.o]
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o]
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o]
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/crtn.o]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../..] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib]
+  implicit libs: [stdc++;m;gcc_s;gcc;c;gcc_s;gcc]
+  implicit objs: [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/Scrt1.o;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/crti.o;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/crtn.o]
+  implicit dirs: [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/lib;/home/kmirakho/anaconda3/envs/trial_hanabi/lib;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/lib;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib]
+  implicit fwks: []
+
+
+Performing C++ SOURCE FILE Test HAS_FLTO succeeded with the following output:
+Change Dir: /home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_4b36b/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_4b36b.dir/build.make CMakeFiles/cmTC_4b36b.dir/build
+gmake[1]: Entering directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4b36b.dir/src.cxx.o
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/c++ -DHAS_FLTO  -O3 -Wall -Wextra -Wno-register -Wno-attributes -fPIC -march=native -Wfatal-errors -DPYBIND11_COMPILER_TYPE=\"_gcc\" -DPYBIND11_STDLIB=\"_libstdcpp\" -DPYBIND11_BUILD_ABI=\"_cxxabi1011\"    -flto -fno-fat-lto-objects -std=gnu++17 -o CMakeFiles/cmTC_4b36b.dir/src.cxx.o -c /home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_4b36b
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4b36b.dir/link.txt --verbose=1
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/c++  -O3 -Wall -Wextra -Wno-register -Wno-attributes -fPIC -march=native -Wfatal-errors -DPYBIND11_COMPILER_TYPE=\"_gcc\" -DPYBIND11_STDLIB=\"_libstdcpp\" -DPYBIND11_BUILD_ABI=\"_cxxabi1011\"  CMakeFiles/cmTC_4b36b.dir/src.cxx.o -o cmTC_4b36b  -flto 
+gmake[1]: Leaving directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Checking whether the CUDA compiler is NVIDIA using "" matched "nvcc: NVIDIA \(R\) Cuda compiler driver":
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2022 NVIDIA Corporation
+Built on Wed_Sep_21_10:33:58_PDT_2022
+Cuda compilation tools, release 11.8, V11.8.89
+Build cuda_11.8.r11.8/compiler.31833905_0
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" succeeded.
+Compiler: /home/kmirakho/anaconda3/envs/trial_hanabi/bin/nvcc 
+Build flags: 
+Id flags: --keep;--keep-dir;tmp -v
+
+The output was:
+0
+#$ _NVVM_BRANCH_=nvvm
+#$ _SPACE_= 
+#$ _CUDART_=cudart
+#$ _HERE_=/home/kmirakho/anaconda3/envs/trial_hanabi/bin
+#$ _THERE_=/home/kmirakho/anaconda3/envs/trial_hanabi/bin
+#$ _TARGET_SIZE_=
+#$ _TARGET_DIR_=
+#$ _TARGET_DIR_=targets/x86_64-linux
+#$ TOP=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/..
+#$ NVVMIR_LIBRARY_DIR=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../nvvm/libdevice
+#$ LD_LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib:/usr/local/cuda/lib64:/usr/local/cuda/lib
+#$ PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../nvvm/bin:/home/kmirakho/anaconda3/envs/trial_hanabi/bin:/home/kmirakho/anaconda3/envs/trial_hanabi/bin:/home/kmirakho/anaconda3/condabin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+#$ INCLUDES="-I/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include"  
+#$ LIBRARIES=  "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs" "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib"
+#$ CUDAFE_FLAGS=
+#$ PTXAS_FLAGS=
+#$ rm tmp/a_dlink.reg.c
+#$ gcc -D__CUDA_ARCH__=520 -D__CUDA_ARCH_LIST__=520 -E -x c++  -DCUDA_DOUBLE_MATH_FUNCTIONS -D__CUDACC__ -D__NVCC__  "-I/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include"    -D__CUDACC_VER_MAJOR__=11 -D__CUDACC_VER_MINOR__=8 -D__CUDACC_VER_BUILD__=89 -D__CUDA_API_VER_MAJOR__=11 -D__CUDA_API_VER_MINOR__=8 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -include "cuda_runtime.h" -m64 "CMakeCUDACompilerId.cu" -o "tmp/CMakeCUDACompilerId.cpp1.ii" 
+#$ cicc --c++17 --gnu_version=110400 --display_error_number --orig_src_file_name "CMakeCUDACompilerId.cu" --orig_src_path_name "/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/3.21.3/CompilerIdCUDA/CMakeCUDACompilerId.cu" --allow_managed   -arch compute_52 -m64 --no-version-ident -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "CMakeCUDACompilerId.fatbin.c" -tused --gen_module_id_file --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.c" --stub_file_name "tmp/CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "tmp/CMakeCUDACompilerId.cudafe1.gpu"  "tmp/CMakeCUDACompilerId.cpp1.ii" -o "tmp/CMakeCUDACompilerId.ptx"
+#$ ptxas -arch=sm_52 -m64  "tmp/CMakeCUDACompilerId.ptx"  -o "tmp/CMakeCUDACompilerId.sm_52.cubin" 
+#$ fatbinary --create="tmp/CMakeCUDACompilerId.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " "--image3=kind=elf,sm=52,file=tmp/CMakeCUDACompilerId.sm_52.cubin" "--image3=kind=ptx,sm=52,file=tmp/CMakeCUDACompilerId.ptx" --embedded-fatbin="tmp/CMakeCUDACompilerId.fatbin.c" 
+#$ gcc -D__CUDA_ARCH_LIST__=520 -E -x c++ -D__CUDACC__ -D__NVCC__  "-I/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include"    -D__CUDACC_VER_MAJOR__=11 -D__CUDACC_VER_MINOR__=8 -D__CUDACC_VER_BUILD__=89 -D__CUDA_API_VER_MAJOR__=11 -D__CUDA_API_VER_MINOR__=8 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -include "cuda_runtime.h" -m64 "CMakeCUDACompilerId.cu" -o "tmp/CMakeCUDACompilerId.cpp4.ii" 
+#$ cudafe++ --c++17 --gnu_version=110400 --display_error_number --orig_src_file_name "CMakeCUDACompilerId.cu" --orig_src_path_name "/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/3.21.3/CompilerIdCUDA/CMakeCUDACompilerId.cu" --allow_managed  --m64 --parse_templates --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "CMakeCUDACompilerId.cudafe1.stub.c" --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" "tmp/CMakeCUDACompilerId.cpp4.ii" 
+#$ gcc -D__CUDA_ARCH__=520 -D__CUDA_ARCH_LIST__=520 -c -x c++  -DCUDA_DOUBLE_MATH_FUNCTIONS "-I/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include"   -m64 "tmp/CMakeCUDACompilerId.cudafe1.cpp" -o "tmp/CMakeCUDACompilerId.o" 
+#$ nvlink -m64 --arch=sm_52 --register-link-binaries="tmp/a_dlink.reg.c"    "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs" "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib" -cpu-arch=X86_64 "tmp/CMakeCUDACompilerId.o"  -lcudadevrt  -o "tmp/a_dlink.sm_52.cubin" --host-ccbin "gcc"
+#$ fatbinary --create="tmp/a_dlink.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -link "--image3=kind=elf,sm=52,file=tmp/a_dlink.sm_52.cubin" --embedded-fatbin="tmp/a_dlink.fatbin.c" 
+#$ gcc -D__CUDA_ARCH_LIST__=520 -c -x c++ -DFATBINFILE="\"tmp/a_dlink.fatbin.c\"" -DREGISTERLINKBINARYFILE="\"tmp/a_dlink.reg.c\"" -I. -D__NV_EXTRA_INITIALIZATION= -D__NV_EXTRA_FINALIZATION= -D__CUDA_INCLUDE_COMPILER_INTERNAL_HEADERS__  "-I/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include"    -D__CUDACC_VER_MAJOR__=11 -D__CUDACC_VER_MINOR__=8 -D__CUDACC_VER_BUILD__=89 -D__CUDA_API_VER_MAJOR__=11 -D__CUDA_API_VER_MINOR__=8 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -m64 "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/crt/link.stub" -o "tmp/a_dlink.o" 
+#$ g++ -D__CUDA_ARCH_LIST__=520 -m64 -Wl,--start-group "tmp/a_dlink.o" "tmp/CMakeCUDACompilerId.o"   "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs" "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib"  -lcudadevrt  -lcudart_static  -lrt -lpthread  -ldl  -Wl,--end-group -o "a.out" 
+
+
+Compilation of the CUDA compiler identification source "CMakeCUDACompilerId.cu" produced "a.out"
+
+The CUDA compiler identification is NVIDIA, found in "/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/3.21.3/CompilerIdCUDA/a.out"
+
+Parsed CUDA nvcc implicit link information from above output:
+  found 'PATH=' string: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../nvvm/bin:/home/kmirakho/anaconda3/envs/trial_hanabi/bin:/home/kmirakho/anaconda3/envs/trial_hanabi/bin:/home/kmirakho/anaconda3/condabin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin]
+  found 'LIBRARIES=' string: ["-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs" "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib"]
+  considering line: [#$ rm tmp/a_dlink.reg.c]
+  considering line: [gcc -D__CUDA_ARCH__=520 -D__CUDA_ARCH_LIST__=520 -E -x c++  -DCUDA_DOUBLE_MATH_FUNCTIONS -D__CUDACC__ -D__NVCC__  "-I/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include"    -D__CUDACC_VER_MAJOR__=11 -D__CUDACC_VER_MINOR__=8 -D__CUDACC_VER_BUILD__=89 -D__CUDA_API_VER_MAJOR__=11 -D__CUDA_API_VER_MINOR__=8 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -include "cuda_runtime.h" -m64 "CMakeCUDACompilerId.cu" -o "tmp/CMakeCUDACompilerId.cpp1.ii" ]
+  considering line: [cicc --c++17 --gnu_version=110400 --display_error_number --orig_src_file_name "CMakeCUDACompilerId.cu" --orig_src_path_name "/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/3.21.3/CompilerIdCUDA/CMakeCUDACompilerId.cu" --allow_managed   -arch compute_52 -m64 --no-version-ident -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "CMakeCUDACompilerId.fatbin.c" -tused --gen_module_id_file --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.c" --stub_file_name "tmp/CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "tmp/CMakeCUDACompilerId.cudafe1.gpu"  "tmp/CMakeCUDACompilerId.cpp1.ii" -o "tmp/CMakeCUDACompilerId.ptx"]
+  considering line: [ptxas -arch=sm_52 -m64  "tmp/CMakeCUDACompilerId.ptx"  -o "tmp/CMakeCUDACompilerId.sm_52.cubin" ]
+  considering line: [fatbinary --create="tmp/CMakeCUDACompilerId.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " "--image3=kind=elf,sm=52,file=tmp/CMakeCUDACompilerId.sm_52.cubin" "--image3=kind=ptx,sm=52,file=tmp/CMakeCUDACompilerId.ptx" --embedded-fatbin="tmp/CMakeCUDACompilerId.fatbin.c" ]
+  considering line: [gcc -D__CUDA_ARCH_LIST__=520 -E -x c++ -D__CUDACC__ -D__NVCC__  "-I/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include"    -D__CUDACC_VER_MAJOR__=11 -D__CUDACC_VER_MINOR__=8 -D__CUDACC_VER_BUILD__=89 -D__CUDA_API_VER_MAJOR__=11 -D__CUDA_API_VER_MINOR__=8 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -include "cuda_runtime.h" -m64 "CMakeCUDACompilerId.cu" -o "tmp/CMakeCUDACompilerId.cpp4.ii" ]
+  considering line: [cudafe++ --c++17 --gnu_version=110400 --display_error_number --orig_src_file_name "CMakeCUDACompilerId.cu" --orig_src_path_name "/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/3.21.3/CompilerIdCUDA/CMakeCUDACompilerId.cu" --allow_managed  --m64 --parse_templates --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "CMakeCUDACompilerId.cudafe1.stub.c" --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" "tmp/CMakeCUDACompilerId.cpp4.ii" ]
+  considering line: [gcc -D__CUDA_ARCH__=520 -D__CUDA_ARCH_LIST__=520 -c -x c++  -DCUDA_DOUBLE_MATH_FUNCTIONS "-I/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include"   -m64 "tmp/CMakeCUDACompilerId.cudafe1.cpp" -o "tmp/CMakeCUDACompilerId.o" ]
+  considering line: [nvlink -m64 --arch=sm_52 --register-link-binaries="tmp/a_dlink.reg.c"    "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs" "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib" -cpu-arch=X86_64 "tmp/CMakeCUDACompilerId.o"  -lcudadevrt  -o "tmp/a_dlink.sm_52.cubin" --host-ccbin "gcc"]
+    ignoring nvlink line
+  considering line: [fatbinary --create="tmp/a_dlink.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -link "--image3=kind=elf,sm=52,file=tmp/a_dlink.sm_52.cubin" --embedded-fatbin="tmp/a_dlink.fatbin.c" ]
+  considering line: [gcc -D__CUDA_ARCH_LIST__=520 -c -x c++ -DFATBINFILE="\"tmp/a_dlink.fatbin.c\"" -DREGISTERLINKBINARYFILE="\"tmp/a_dlink.reg.c\"" -I. -D__NV_EXTRA_INITIALIZATION= -D__NV_EXTRA_FINALIZATION= -D__CUDA_INCLUDE_COMPILER_INTERNAL_HEADERS__  "-I/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include"    -D__CUDACC_VER_MAJOR__=11 -D__CUDACC_VER_MINOR__=8 -D__CUDACC_VER_BUILD__=89 -D__CUDA_API_VER_MAJOR__=11 -D__CUDA_API_VER_MINOR__=8 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -m64 "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/crt/link.stub" -o "tmp/a_dlink.o" ]
+  considering line: [g++ -D__CUDA_ARCH_LIST__=520 -m64 -Wl,--start-group "tmp/a_dlink.o" "tmp/CMakeCUDACompilerId.o"   "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs" "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib"  -lcudadevrt  -lcudart_static  -lrt -lpthread  -ldl  -Wl,--end-group -o "a.out" ]
+    extracted link line: [g++ -D__CUDA_ARCH_LIST__=520 -m64 -Wl,--start-group "tmp/a_dlink.o" "tmp/CMakeCUDACompilerId.o"   "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs" "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib"  -lcudadevrt  -lcudart_static  -lrt -lpthread  -ldl  -Wl,--end-group -o "a.out" ]
+  considering line: []
+  extracted link launcher name: [g++]
+  found link launcher absolute path: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/g++]
+
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  link line: [cuda-fake-ld g++ -D__CUDA_ARCH_LIST__=520 -m64 -Wl,--start-group "tmp/a_dlink.o" "tmp/CMakeCUDACompilerId.o"   "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs" "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib"  -lcudadevrt  -lcudart_static  -lrt -lpthread  -ldl  -Wl,--end-group -o "a.out" ]
+    arg [cuda-fake-ld] ==> ignore
+    arg [g++] ==> ignore
+    arg [-D__CUDA_ARCH_LIST__=520] ==> ignore
+    arg [-m64] ==> ignore
+    arg [-Wl,--start-group] ==> ignore
+    arg [tmp/a_dlink.o] ==> ignore
+    arg [tmp/CMakeCUDACompilerId.o] ==> ignore
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib]
+    arg [-lcudadevrt] ==> lib [cudadevrt]
+    arg [-lcudart_static] ==> lib [cudart_static]
+    arg [-lrt] ==> lib [rt]
+    arg [-lpthread] ==> lib [pthread]
+    arg [-ldl] ==> lib [dl]
+    arg [-Wl,--end-group] ==> ignore
+    arg [-o] ==> ignore
+    arg [a.out] ==> ignore
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+  implicit libs: [cudadevrt;cudart_static;rt;pthread;dl]
+  implicit objs: []
+  implicit dirs: [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs;/home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+  implicit fwks: []
+
+
+Parsed CUDA nvcc include information from above output:
+  found 'PATH=' string: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../nvvm/bin:/home/kmirakho/anaconda3/envs/trial_hanabi/bin:/home/kmirakho/anaconda3/envs/trial_hanabi/bin:/home/kmirakho/anaconda3/condabin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin]
+  found 'LIBRARIES=' string: ["-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs" "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib"]
+  considering line: [#$ rm tmp/a_dlink.reg.c]
+  considering line: [gcc -D__CUDA_ARCH__=520 -D__CUDA_ARCH_LIST__=520 -E -x c++  -DCUDA_DOUBLE_MATH_FUNCTIONS -D__CUDACC__ -D__NVCC__  "-I/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include"    -D__CUDACC_VER_MAJOR__=11 -D__CUDACC_VER_MINOR__=8 -D__CUDACC_VER_BUILD__=89 -D__CUDA_API_VER_MAJOR__=11 -D__CUDA_API_VER_MINOR__=8 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -include "cuda_runtime.h" -m64 "CMakeCUDACompilerId.cu" -o "tmp/CMakeCUDACompilerId.cpp1.ii" ]
+  considering line: [cicc --c++17 --gnu_version=110400 --display_error_number --orig_src_file_name "CMakeCUDACompilerId.cu" --orig_src_path_name "/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/3.21.3/CompilerIdCUDA/CMakeCUDACompilerId.cu" --allow_managed   -arch compute_52 -m64 --no-version-ident -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "CMakeCUDACompilerId.fatbin.c" -tused --gen_module_id_file --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.c" --stub_file_name "tmp/CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "tmp/CMakeCUDACompilerId.cudafe1.gpu"  "tmp/CMakeCUDACompilerId.cpp1.ii" -o "tmp/CMakeCUDACompilerId.ptx"]
+  considering line: [ptxas -arch=sm_52 -m64  "tmp/CMakeCUDACompilerId.ptx"  -o "tmp/CMakeCUDACompilerId.sm_52.cubin" ]
+  considering line: [fatbinary --create="tmp/CMakeCUDACompilerId.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " "--image3=kind=elf,sm=52,file=tmp/CMakeCUDACompilerId.sm_52.cubin" "--image3=kind=ptx,sm=52,file=tmp/CMakeCUDACompilerId.ptx" --embedded-fatbin="tmp/CMakeCUDACompilerId.fatbin.c" ]
+  considering line: [gcc -D__CUDA_ARCH_LIST__=520 -E -x c++ -D__CUDACC__ -D__NVCC__  "-I/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include"    -D__CUDACC_VER_MAJOR__=11 -D__CUDACC_VER_MINOR__=8 -D__CUDACC_VER_BUILD__=89 -D__CUDA_API_VER_MAJOR__=11 -D__CUDA_API_VER_MINOR__=8 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -include "cuda_runtime.h" -m64 "CMakeCUDACompilerId.cu" -o "tmp/CMakeCUDACompilerId.cpp4.ii" ]
+  considering line: [cudafe++ --c++17 --gnu_version=110400 --display_error_number --orig_src_file_name "CMakeCUDACompilerId.cu" --orig_src_path_name "/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/3.21.3/CompilerIdCUDA/CMakeCUDACompilerId.cu" --allow_managed  --m64 --parse_templates --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "CMakeCUDACompilerId.cudafe1.stub.c" --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" "tmp/CMakeCUDACompilerId.cpp4.ii" ]
+  considering line: [gcc -D__CUDA_ARCH__=520 -D__CUDA_ARCH_LIST__=520 -c -x c++  -DCUDA_DOUBLE_MATH_FUNCTIONS "-I/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include"   -m64 "tmp/CMakeCUDACompilerId.cudafe1.cpp" -o "tmp/CMakeCUDACompilerId.o" ]
+  considering line: [nvlink -m64 --arch=sm_52 --register-link-binaries="tmp/a_dlink.reg.c"    "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs" "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib" -cpu-arch=X86_64 "tmp/CMakeCUDACompilerId.o"  -lcudadevrt  -o "tmp/a_dlink.sm_52.cubin" --host-ccbin "gcc"]
+    ignoring nvlink line
+  considering line: [fatbinary --create="tmp/a_dlink.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -link "--image3=kind=elf,sm=52,file=tmp/a_dlink.sm_52.cubin" --embedded-fatbin="tmp/a_dlink.fatbin.c" ]
+  considering line: [gcc -D__CUDA_ARCH_LIST__=520 -c -x c++ -DFATBINFILE="\"tmp/a_dlink.fatbin.c\"" -DREGISTERLINKBINARYFILE="\"tmp/a_dlink.reg.c\"" -I. -D__NV_EXTRA_INITIALIZATION= -D__NV_EXTRA_FINALIZATION= -D__CUDA_INCLUDE_COMPILER_INTERNAL_HEADERS__  "-I/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include"    -D__CUDACC_VER_MAJOR__=11 -D__CUDACC_VER_MINOR__=8 -D__CUDACC_VER_BUILD__=89 -D__CUDA_API_VER_MAJOR__=11 -D__CUDA_API_VER_MINOR__=8 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -m64 "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/crt/link.stub" -o "tmp/a_dlink.o" ]
+  considering line: [g++ -D__CUDA_ARCH_LIST__=520 -m64 -Wl,--start-group "tmp/a_dlink.o" "tmp/CMakeCUDACompilerId.o"   "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs" "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib"  -lcudadevrt  -lcudart_static  -lrt -lpthread  -ldl  -Wl,--end-group -o "a.out" ]
+    extracted link line: [g++ -D__CUDA_ARCH_LIST__=520 -m64 -Wl,--start-group "tmp/a_dlink.o" "tmp/CMakeCUDACompilerId.o"   "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs" "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib"  -lcudadevrt  -lcudart_static  -lrt -lpthread  -ldl  -Wl,--end-group -o "a.out" ]
+  considering line: []
+  extracted link launcher name: [g++]
+  found link launcher absolute path: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/g++]
+  found 'INCLUDES=' string: ["-I/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include"  ]
+
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  link line: [cuda-fake-ld g++ -D__CUDA_ARCH_LIST__=520 -m64 -Wl,--start-group "tmp/a_dlink.o" "tmp/CMakeCUDACompilerId.o"   "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs" "-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib"  -lcudadevrt  -lcudart_static  -lrt -lpthread  -ldl  -Wl,--end-group -o "a.out" ]
+    arg [cuda-fake-ld] ==> ignore
+    arg [g++] ==> ignore
+    arg [-D__CUDA_ARCH_LIST__=520] ==> ignore
+    arg [-m64] ==> ignore
+    arg [-Wl,--start-group] ==> ignore
+    arg [tmp/a_dlink.o] ==> ignore
+    arg [tmp/CMakeCUDACompilerId.o] ==> ignore
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib]
+    arg [-lcudadevrt] ==> lib [cudadevrt]
+    arg [-lcudart_static] ==> lib [cudart_static]
+    arg [-lrt] ==> lib [rt]
+    arg [-lpthread] ==> lib [pthread]
+    arg [-ldl] ==> lib [dl]
+    arg [-Wl,--end-group] ==> ignore
+    arg [-o] ==> ignore
+    arg [a.out] ==> ignore
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/stubs] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+  implicit libs: [cudadevrt;cudart_static;rt;pthread;dl]
+  implicit objs: []
+  implicit dirs: [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs;/home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+  implicit fwks: []
+
+
+Detecting CUDA compiler ABI info compiled with the following output:
+Change Dir: /home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_b1f91/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_b1f91.dir/build.make CMakeFiles/cmTC_b1f91.dir/build
+gmake[1]: Entering directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp'
+Building CUDA object CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/nvcc -forward-unknown-to-host-compiler   -Xcompiler=-v -MD -MT CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o -MF CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o.d -x cu -c /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CMakeCUDACompilerABI.cu -o CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o
+Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs
+could not find specs file conda.specs
+COLLECT_GCC=gcc
+Target: x86_64-conda-linux-gnu
+Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c,c++,fortran,objc,obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 11.4.0 (conda-forge gcc 11.4.0-13) 
+COLLECT_GCC_OPTIONS='-D' '__CUDA_ARCH__=520' '-D' '__CUDA_ARCH_LIST__=520' '-E' '-D' 'CUDA_DOUBLE_MATH_FUNCTIONS' '-D' '__CUDACC__' '-D' '__NVCC__' '-v' '-I' '/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include' '-D' '__CUDACC_VER_MAJOR__=11' '-D' '__CUDACC_VER_MINOR__=8' '-D' '__CUDACC_VER_BUILD__=89' '-D' '__CUDA_API_VER_MAJOR__=11' '-D' '__CUDA_API_VER_MINOR__=8' '-D' '__NVCC_DIAG_PRAGMA_SUPPORT__=1' '-include' 'cuda_runtime.h' '-m64' '-o' '/tmp/tmpxft_001e575e_00000000-7_CMakeCUDACompilerABI.cpp1.ii' '-mtune=generic' '-march=x86-64' '-dumpdir' '/tmp/'
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/cc1plus -E -quiet -v -I /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include -iprefix /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/ -isysroot /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot -D_GNU_SOURCE -D __CUDA_ARCH__=520 -D __CUDA_ARCH_LIST__=520 -D CUDA_DOUBLE_MATH_FUNCTIONS -D __CUDACC__ -D __NVCC__ -D __CUDACC_VER_MAJOR__=11 -D __CUDACC_VER_MINOR__=8 -D __CUDACC_VER_BUILD__=89 -D __CUDA_API_VER_MAJOR__=11 -D __CUDA_API_VER_MINOR__=8 -D __NVCC_DIAG_PRAGMA_SUPPORT__=1 -include cuda_runtime.h /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CMakeCUDACompilerABI.cu -o /tmp/tmpxft_001e575e_00000000-7_CMakeCUDACompilerABI.cpp1.ii -m64 -mtune=generic -march=x86-64 -dumpdir /tmp/ -dumpbase tmpxft_001e575e_00000000-7_CMakeCUDACompilerABI.cpp1.cu -dumpbase-ext .cu
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include"
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/local/include"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed"
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include
+End of search list.
+COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/
+LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-D' '__CUDA_ARCH__=520' '-D' '__CUDA_ARCH_LIST__=520' '-E' '-D' 'CUDA_DOUBLE_MATH_FUNCTIONS' '-D' '__CUDACC__' '-D' '__NVCC__' '-v' '-I' '/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include' '-D' '__CUDACC_VER_MAJOR__=11' '-D' '__CUDACC_VER_MINOR__=8' '-D' '__CUDACC_VER_BUILD__=89' '-D' '__CUDA_API_VER_MAJOR__=11' '-D' '__CUDA_API_VER_MINOR__=8' '-D' '__NVCC_DIAG_PRAGMA_SUPPORT__=1' '-include' 'cuda_runtime.h' '-m64' '-o' '/tmp/tmpxft_001e575e_00000000-7_CMakeCUDACompilerABI.cpp1.ii' '-mtune=generic' '-march=x86-64' '-dumpdir' '/tmp/tmpxft_001e575e_00000000-7_CMakeCUDACompilerABI.cpp1.'
+Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs
+could not find specs file conda.specs
+COLLECT_GCC=gcc
+Target: x86_64-conda-linux-gnu
+Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c,c++,fortran,objc,obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 11.4.0 (conda-forge gcc 11.4.0-13) 
+COLLECT_GCC_OPTIONS='-D' '__CUDA_ARCH_LIST__=520' '-E' '-D' '__CUDACC__' '-D' '__NVCC__' '-v' '-I' '/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include' '-D' '__CUDACC_VER_MAJOR__=11' '-D' '__CUDACC_VER_MINOR__=8' '-D' '__CUDACC_VER_BUILD__=89' '-D' '__CUDA_API_VER_MAJOR__=11' '-D' '__CUDA_API_VER_MINOR__=8' '-D' '__NVCC_DIAG_PRAGMA_SUPPORT__=1' '-include' 'cuda_runtime.h' '-m64' '-o' '/tmp/tmpxft_001e575e_00000000-5_CMakeCUDACompilerABI.cpp4.ii' '-mtune=generic' '-march=x86-64' '-dumpdir' '/tmp/'
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/cc1plus -E -quiet -v -I /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include -iprefix /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/ -isysroot /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot -D_GNU_SOURCE -D __CUDA_ARCH_LIST__=520 -D __CUDACC__ -D __NVCC__ -D __CUDACC_VER_MAJOR__=11 -D __CUDACC_VER_MINOR__=8 -D __CUDACC_VER_BUILD__=89 -D __CUDA_API_VER_MAJOR__=11 -D __CUDA_API_VER_MINOR__=8 -D __NVCC_DIAG_PRAGMA_SUPPORT__=1 -include cuda_runtime.h /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CMakeCUDACompilerABI.cu -o /tmp/tmpxft_001e575e_00000000-5_CMakeCUDACompilerABI.cpp4.ii -m64 -mtune=generic -march=x86-64 -dumpdir /tmp/ -dumpbase tmpxft_001e575e_00000000-5_CMakeCUDACompilerABI.cpp4.cu -dumpbase-ext .cu
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include"
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/local/include"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed"
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include
+End of search list.
+COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/
+LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-D' '__CUDA_ARCH_LIST__=520' '-E' '-D' '__CUDACC__' '-D' '__NVCC__' '-v' '-I' '/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include' '-D' '__CUDACC_VER_MAJOR__=11' '-D' '__CUDACC_VER_MINOR__=8' '-D' '__CUDACC_VER_BUILD__=89' '-D' '__CUDA_API_VER_MAJOR__=11' '-D' '__CUDA_API_VER_MINOR__=8' '-D' '__NVCC_DIAG_PRAGMA_SUPPORT__=1' '-include' 'cuda_runtime.h' '-m64' '-o' '/tmp/tmpxft_001e575e_00000000-5_CMakeCUDACompilerABI.cpp4.ii' '-mtune=generic' '-march=x86-64' '-dumpdir' '/tmp/tmpxft_001e575e_00000000-5_CMakeCUDACompilerABI.cpp4.'
+Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs
+could not find specs file conda.specs
+COLLECT_GCC=gcc
+Target: x86_64-conda-linux-gnu
+Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c,c++,fortran,objc,obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 11.4.0 (conda-forge gcc 11.4.0-13) 
+COLLECT_GCC_OPTIONS='-D' '__CUDA_ARCH__=520' '-D' '__CUDA_ARCH_LIST__=520' '-c' '-D' 'CUDA_DOUBLE_MATH_FUNCTIONS' '-v' '-I' '/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include' '-m64' '-o' 'CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b1f91.dir/'
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/cc1plus -quiet -v -I /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include -iprefix /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/ -isysroot /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot -D_GNU_SOURCE -D __CUDA_ARCH__=520 -D __CUDA_ARCH_LIST__=520 -D CUDA_DOUBLE_MATH_FUNCTIONS /tmp/tmpxft_001e575e_00000000-6_CMakeCUDACompilerABI.cudafe1.cpp -quiet -dumpdir CMakeFiles/cmTC_b1f91.dir/ -dumpbase CMakeCUDACompilerABI.cu.cpp -dumpbase-ext .cpp -m64 -mtune=generic -march=x86-64 -version -o /tmp/ccgDIBi2.s
+GNU C++17 (conda-forge gcc 11.4.0-13) version 11.4.0 (x86_64-conda-linux-gnu)
+	compiled by GNU C version 13.2.0, GMP version 6.1.0, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include"
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/local/include"
+ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed"
+ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include
+End of search list.
+GNU C++17 (conda-forge gcc 11.4.0-13) version 11.4.0 (x86_64-conda-linux-gnu)
+	compiled by GNU C version 13.2.0, GMP version 6.1.0, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: b752247fe42c4276663fdd6348116302
+COLLECT_GCC_OPTIONS='-D' '__CUDA_ARCH__=520' '-D' '__CUDA_ARCH_LIST__=520' '-c' '-D' 'CUDA_DOUBLE_MATH_FUNCTIONS' '-v' '-I' '/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include' '-m64' '-o' 'CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b1f91.dir/'
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/as -v -I /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include --64 -o CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o /tmp/ccgDIBi2.s
+GNU assembler version 2.40 (x86_64-conda-linux-gnu) using BFD version (Anaconda binutils) 2.40
+COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/
+LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-D' '__CUDA_ARCH__=520' '-D' '__CUDA_ARCH_LIST__=520' '-c' '-D' 'CUDA_DOUBLE_MATH_FUNCTIONS' '-v' '-I' '/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include' '-m64' '-o' 'CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.'
+Linking CUDA executable cmTC_b1f91
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b1f91.dir/link.txt --verbose=1
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/g++  -v CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o -o cmTC_b1f91  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs" -L"/home/kmirakho/anaconda3/envs/trial_hanabi/lib"
+Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs
+could not find specs file conda.specs
+COLLECT_GCC=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/g++
+COLLECT_LTO_WRAPPER=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper
+Target: x86_64-conda-linux-gnu
+Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c,c++,fortran,objc,obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix
+Thread model: posix
+Supported LTO compression algorithms: zlib
+gcc version 11.4.0 (conda-forge gcc 11.4.0-13) 
+COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/
+LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b1f91' '-L/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs' '-L/home/kmirakho/anaconda3/envs/trial_hanabi/lib' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_b1f91.'
+ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/collect2 -plugin /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/liblto_plugin.so -plugin-opt=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccsTphup.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_b1f91 /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o -L/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs -L/home/kmirakho/anaconda3/envs/trial_hanabi/lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0 -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../.. -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o -lcudadevrt -lcudart_static -lrt -lpthread -ldl -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o -rpath /home/kmirakho/anaconda3/envs/trial_hanabi/lib
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b1f91' '-L/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs' '-L/home/kmirakho/anaconda3/envs/trial_hanabi/lib' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_b1f91.'
+gmake[1]: Leaving directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp'
+
+
+
+Parsed CUDA implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include]
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++]
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu]
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward]
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include]
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed]
+    add: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include]
+  end of search list found
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/include]
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++]
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu]
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward]
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include]
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed]
+  collapse include dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/include]
+  implicit include dirs: [/home/kmirakho/anaconda3/envs/trial_hanabi/include;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/include]
+
+
+Parsed CUDA implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_b1f91/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_b1f91.dir/build.make CMakeFiles/cmTC_b1f91.dir/build]
+  ignore line: [gmake[1]: Entering directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp']
+  ignore line: [Building CUDA object CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o]
+  ignore line: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/nvcc -forward-unknown-to-host-compiler   -Xcompiler=-v -MD -MT CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o -MF CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o.d -x cu -c /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CMakeCUDACompilerABI.cu -o CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o]
+  ignore line: [Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs]
+  ignore line: [could not find specs file conda.specs]
+  ignore line: [COLLECT_GCC=gcc]
+  ignore line: [Target: x86_64-conda-linux-gnu]
+  ignore line: [Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c c++ fortran objc obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 11.4.0 (conda-forge gcc 11.4.0-13) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-D' '__CUDA_ARCH__=520' '-D' '__CUDA_ARCH_LIST__=520' '-E' '-D' 'CUDA_DOUBLE_MATH_FUNCTIONS' '-D' '__CUDACC__' '-D' '__NVCC__' '-v' '-I' '/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include' '-D' '__CUDACC_VER_MAJOR__=11' '-D' '__CUDACC_VER_MINOR__=8' '-D' '__CUDACC_VER_BUILD__=89' '-D' '__CUDA_API_VER_MAJOR__=11' '-D' '__CUDA_API_VER_MINOR__=8' '-D' '__NVCC_DIAG_PRAGMA_SUPPORT__=1' '-include' 'cuda_runtime.h' '-m64' '-o' '/tmp/tmpxft_001e575e_00000000-7_CMakeCUDACompilerABI.cpp1.ii' '-mtune=generic' '-march=x86-64' '-dumpdir' '/tmp/']
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/cc1plus -E -quiet -v -I /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include -iprefix /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/ -isysroot /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot -D_GNU_SOURCE -D __CUDA_ARCH__=520 -D __CUDA_ARCH_LIST__=520 -D CUDA_DOUBLE_MATH_FUNCTIONS -D __CUDACC__ -D __NVCC__ -D __CUDACC_VER_MAJOR__=11 -D __CUDACC_VER_MINOR__=8 -D __CUDACC_VER_BUILD__=89 -D __CUDA_API_VER_MAJOR__=11 -D __CUDA_API_VER_MINOR__=8 -D __NVCC_DIAG_PRAGMA_SUPPORT__=1 -include cuda_runtime.h /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CMakeCUDACompilerABI.cu -o /tmp/tmpxft_001e575e_00000000-7_CMakeCUDACompilerABI.cpp1.ii -m64 -mtune=generic -march=x86-64 -dumpdir /tmp/ -dumpbase tmpxft_001e575e_00000000-7_CMakeCUDACompilerABI.cpp1.cu -dumpbase-ext .cu]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include"]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/local/include"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include]
+  ignore line: [End of search list.]
+  ignore line: [COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/]
+  ignore line: [LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-D' '__CUDA_ARCH__=520' '-D' '__CUDA_ARCH_LIST__=520' '-E' '-D' 'CUDA_DOUBLE_MATH_FUNCTIONS' '-D' '__CUDACC__' '-D' '__NVCC__' '-v' '-I' '/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include' '-D' '__CUDACC_VER_MAJOR__=11' '-D' '__CUDACC_VER_MINOR__=8' '-D' '__CUDACC_VER_BUILD__=89' '-D' '__CUDA_API_VER_MAJOR__=11' '-D' '__CUDA_API_VER_MINOR__=8' '-D' '__NVCC_DIAG_PRAGMA_SUPPORT__=1' '-include' 'cuda_runtime.h' '-m64' '-o' '/tmp/tmpxft_001e575e_00000000-7_CMakeCUDACompilerABI.cpp1.ii' '-mtune=generic' '-march=x86-64' '-dumpdir' '/tmp/tmpxft_001e575e_00000000-7_CMakeCUDACompilerABI.cpp1.']
+  ignore line: [Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs]
+  ignore line: [could not find specs file conda.specs]
+  ignore line: [COLLECT_GCC=gcc]
+  ignore line: [Target: x86_64-conda-linux-gnu]
+  ignore line: [Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c c++ fortran objc obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 11.4.0 (conda-forge gcc 11.4.0-13) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-D' '__CUDA_ARCH_LIST__=520' '-E' '-D' '__CUDACC__' '-D' '__NVCC__' '-v' '-I' '/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include' '-D' '__CUDACC_VER_MAJOR__=11' '-D' '__CUDACC_VER_MINOR__=8' '-D' '__CUDACC_VER_BUILD__=89' '-D' '__CUDA_API_VER_MAJOR__=11' '-D' '__CUDA_API_VER_MINOR__=8' '-D' '__NVCC_DIAG_PRAGMA_SUPPORT__=1' '-include' 'cuda_runtime.h' '-m64' '-o' '/tmp/tmpxft_001e575e_00000000-5_CMakeCUDACompilerABI.cpp4.ii' '-mtune=generic' '-march=x86-64' '-dumpdir' '/tmp/']
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/cc1plus -E -quiet -v -I /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include -iprefix /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/ -isysroot /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot -D_GNU_SOURCE -D __CUDA_ARCH_LIST__=520 -D __CUDACC__ -D __NVCC__ -D __CUDACC_VER_MAJOR__=11 -D __CUDACC_VER_MINOR__=8 -D __CUDACC_VER_BUILD__=89 -D __CUDA_API_VER_MAJOR__=11 -D __CUDA_API_VER_MINOR__=8 -D __NVCC_DIAG_PRAGMA_SUPPORT__=1 -include cuda_runtime.h /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CMakeCUDACompilerABI.cu -o /tmp/tmpxft_001e575e_00000000-5_CMakeCUDACompilerABI.cpp4.ii -m64 -mtune=generic -march=x86-64 -dumpdir /tmp/ -dumpbase tmpxft_001e575e_00000000-5_CMakeCUDACompilerABI.cpp4.cu -dumpbase-ext .cu]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include"]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/local/include"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include]
+  ignore line: [End of search list.]
+  ignore line: [COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/]
+  ignore line: [LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-D' '__CUDA_ARCH_LIST__=520' '-E' '-D' '__CUDACC__' '-D' '__NVCC__' '-v' '-I' '/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include' '-D' '__CUDACC_VER_MAJOR__=11' '-D' '__CUDACC_VER_MINOR__=8' '-D' '__CUDACC_VER_BUILD__=89' '-D' '__CUDA_API_VER_MAJOR__=11' '-D' '__CUDA_API_VER_MINOR__=8' '-D' '__NVCC_DIAG_PRAGMA_SUPPORT__=1' '-include' 'cuda_runtime.h' '-m64' '-o' '/tmp/tmpxft_001e575e_00000000-5_CMakeCUDACompilerABI.cpp4.ii' '-mtune=generic' '-march=x86-64' '-dumpdir' '/tmp/tmpxft_001e575e_00000000-5_CMakeCUDACompilerABI.cpp4.']
+  ignore line: [Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs]
+  ignore line: [could not find specs file conda.specs]
+  ignore line: [COLLECT_GCC=gcc]
+  ignore line: [Target: x86_64-conda-linux-gnu]
+  ignore line: [Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c c++ fortran objc obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 11.4.0 (conda-forge gcc 11.4.0-13) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-D' '__CUDA_ARCH__=520' '-D' '__CUDA_ARCH_LIST__=520' '-c' '-D' 'CUDA_DOUBLE_MATH_FUNCTIONS' '-v' '-I' '/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include' '-m64' '-o' 'CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b1f91.dir/']
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/cc1plus -quiet -v -I /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include -iprefix /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/ -isysroot /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot -D_GNU_SOURCE -D __CUDA_ARCH__=520 -D __CUDA_ARCH_LIST__=520 -D CUDA_DOUBLE_MATH_FUNCTIONS /tmp/tmpxft_001e575e_00000000-6_CMakeCUDACompilerABI.cudafe1.cpp -quiet -dumpdir CMakeFiles/cmTC_b1f91.dir/ -dumpbase CMakeCUDACompilerABI.cu.cpp -dumpbase-ext .cpp -m64 -mtune=generic -march=x86-64 -version -o /tmp/ccgDIBi2.s]
+  ignore line: [GNU C++17 (conda-forge gcc 11.4.0-13) version 11.4.0 (x86_64-conda-linux-gnu)]
+  ignore line: [	compiled by GNU C version 13.2.0  GMP version 6.1.0  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include"]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/local/include"]
+  ignore line: [ignoring duplicate directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/../../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/x86_64-conda-linux-gnu]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++/backward]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/include-fixed]
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++17 (conda-forge gcc 11.4.0-13) version 11.4.0 (x86_64-conda-linux-gnu)]
+  ignore line: [	compiled by GNU C version 13.2.0  GMP version 6.1.0  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: b752247fe42c4276663fdd6348116302]
+  ignore line: [COLLECT_GCC_OPTIONS='-D' '__CUDA_ARCH__=520' '-D' '__CUDA_ARCH_LIST__=520' '-c' '-D' 'CUDA_DOUBLE_MATH_FUNCTIONS' '-v' '-I' '/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include' '-m64' '-o' 'CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b1f91.dir/']
+  ignore line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/as -v -I /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include --64 -o CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o /tmp/ccgDIBi2.s]
+  ignore line: [GNU assembler version 2.40 (x86_64-conda-linux-gnu) using BFD version (Anaconda binutils) 2.40]
+  ignore line: [COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/]
+  ignore line: [LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-D' '__CUDA_ARCH__=520' '-D' '__CUDA_ARCH_LIST__=520' '-c' '-D' 'CUDA_DOUBLE_MATH_FUNCTIONS' '-v' '-I' '/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../include' '-m64' '-o' 'CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.']
+  ignore line: [Linking CUDA executable cmTC_b1f91]
+  ignore line: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b1f91.dir/link.txt --verbose=1]
+  ignore line: [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/g++  -v CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o -o cmTC_b1f91  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs" -L"/home/kmirakho/anaconda3/envs/trial_hanabi/lib"]
+  ignore line: [Reading specs from /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/specs]
+  ignore line: [could not find specs file conda.specs]
+  ignore line: [COLLECT_GCC=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/g++]
+  ignore line: [COLLECT_LTO_WRAPPER=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper]
+  ignore line: [Target: x86_64-conda-linux-gnu]
+  ignore line: [Configured with: ../configure --prefix=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho --with-slibdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --libdir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib --mandir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/man --build=x86_64-conda-linux-gnu --host=x86_64-conda-linux-gnu --target=x86_64-conda-linux-gnu --enable-languages=c c++ fortran objc obj-c++ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --enable-libquadmath --enable-libquadmath-support --enable-lto --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-bootstrap --disable-multilib --enable-long-long --with-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/x86_64-conda-linux-gnu/sysroot --with-build-sysroot=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/work/cf-compilers/x86_64-conda-linux-gnu/sysroot --with-native-system-header-dir=/usr/include --with-gxx-include-dir=/home/conda/feedstock_root/build_artifacts/gcc_compilers_1719176526088/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/lib/gcc/x86_64-conda-linux-gnu/11.4.0/include/c++ --with-pkgversion='conda-forge gcc 11.4.0-13' --with-bugurl=https://github.com/conda-forge/ctng-compilers-feedstock/issues/new/choose --enable-libsanitizer --enable-default-pie --enable-threads=posix]
+  ignore line: [Thread model: posix]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 11.4.0 (conda-forge gcc 11.4.0-13) ]
+  ignore line: [COMPILER_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/bin/]
+  ignore line: [LIBRARY_PATH=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/:/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b1f91' '-L/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs' '-L/home/kmirakho/anaconda3/envs/trial_hanabi/lib' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_b1f91.']
+  link line: [ /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/collect2 -plugin /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/liblto_plugin.so -plugin-opt=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccsTphup.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_b1f91 /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o -L/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs -L/home/kmirakho/anaconda3/envs/trial_hanabi/lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0 -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../.. -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib -L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o -lcudadevrt -lcudart_static -lrt -lpthread -ldl -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o /home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o -rpath /home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../libexec/gcc/x86_64-conda-linux-gnu/11.4.0/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccsTphup.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [--sysroot=/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-pie] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_b1f91] ==> ignore
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o]
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o]
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../..] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../..]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib]
+    arg [-L/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib] ==> dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib]
+    arg [CMakeFiles/cmTC_b1f91.dir/CMakeCUDACompilerABI.cu.o] ==> ignore
+    arg [-lcudadevrt] ==> lib [cudadevrt]
+    arg [-lcudart_static] ==> lib [cudart_static]
+    arg [-lrt] ==> lib [rt]
+    arg [-lpthread] ==> lib [pthread]
+    arg [-ldl] ==> lib [dl]
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o]
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o] ==> obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o]
+    arg [-rpath] ==> ignore
+    arg [/home/kmirakho/anaconda3/envs/trial_hanabi/lib] ==> ignore
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/Scrt1.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/Scrt1.o]
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crti.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/crti.o]
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o]
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o]
+  collapse obj [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib/crtn.o] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/crtn.o]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib/../lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib/../lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib/../lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../../../x86_64-conda-linux-gnu/lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../lib/gcc/x86_64-conda-linux-gnu/11.4.0/../../..] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/lib]
+  collapse library dir [/home/kmirakho/anaconda3/envs/trial_hanabi/bin/../x86_64-conda-linux-gnu/sysroot/usr/lib] ==> [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib]
+  implicit libs: [cudadevrt;cudart_static;rt;pthread;dl;stdc++;m;gcc_s;gcc;c;gcc_s;gcc]
+  implicit objs: [/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/Scrt1.o;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/crti.o;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtbeginS.o;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0/crtendS.o;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib/crtn.o]
+  implicit dirs: [/home/kmirakho/anaconda3/envs/trial_hanabi/lib/stubs;/home/kmirakho/anaconda3/envs/trial_hanabi/lib;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc/x86_64-conda-linux-gnu/11.4.0;/home/kmirakho/anaconda3/envs/trial_hanabi/lib/gcc;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/lib;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/lib;/home/kmirakho/anaconda3/envs/trial_hanabi/x86_64-conda-linux-gnu/sysroot/usr/lib]
+  implicit fwks: []
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_9f076/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_9f076.dir/build.make CMakeFiles/cmTC_9f076.dir/build
+gmake[1]: Entering directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9f076.dir/CheckIncludeFile.c.o
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cc    -o CMakeFiles/cmTC_9f076.dir/CheckIncludeFile.c.o -c /home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_9f076
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9f076.dir/link.txt --verbose=1
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cc CMakeFiles/cmTC_9f076.dir/CheckIncludeFile.c.o -o cmTC_9f076 
+gmake[1]: Leaving directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_7c047/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_7c047.dir/build.make CMakeFiles/cmTC_7c047.dir/build
+gmake[1]: Entering directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7c047.dir/CheckFunctionExists.c.o
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create -o CMakeFiles/cmTC_7c047.dir/CheckFunctionExists.c.o -c /home/kmirakho/anaconda3/envs/trial_hanabi/share/cmake-3.21/Modules/CheckFunctionExists.c
+Linking C executable cmTC_7c047
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7c047.dir/link.txt --verbose=1
+/home/kmirakho/anaconda3/envs/trial_hanabi/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create CMakeFiles/cmTC_7c047.dir/CheckFunctionExists.c.o -o cmTC_7c047  -lpthread 
+gmake[1]: Leaving directory '/home/kmirakho/Documents/off-belief-learning/build_2/CMakeFiles/CMakeTmp'
+
+
+
